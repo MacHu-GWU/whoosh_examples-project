@@ -3,6 +3,7 @@ whoosh_examples_venv/
 whoosh_examples.egg-info/
 whoosh_examples-*/
 tmp/
+.whoosh_index/
 
 
 # Byte-compiled / optimized / DLL files
